@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @joynapala
-- 👀 I’m interested in Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 Just message me here dzai
