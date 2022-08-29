@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 Just message me here
+- 📫 Just message me here dzai
 
 <!---
 joynapala/joynapala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
